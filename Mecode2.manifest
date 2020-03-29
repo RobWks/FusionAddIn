@@ -1,0 +1,13 @@
+
+
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"replace_me",
+	"author":	"Rob Weeks",
+	"description": "Generic Fusion 360 addin leveraging apper as a submodule",
+	"version":	"0.1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
