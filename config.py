@@ -1,2 +1,2 @@
-app_name = 'Mecode2'
+app_name = 'mecode'
 company_name = "Personal"

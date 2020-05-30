@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "9d1e3ec5-31c2-4401-b510-2b3d12f2dde8",
+    "author": "Rob Weeks",
+    "description": "A tool to create and edit toolpaths for 3D printing.",
+    "version": "0.1.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

@@ -1,4 +1,4 @@
-Mecode2
+mecode
 =======
 
 
@@ -22,4 +22,4 @@ Licence
 Authors
 -------
 
-`Mecode2` was written by `Rob Weeks <robertweeks94@gmail.com>`_.
+`mecode` was written by `Rob Weeks <robertweeks94@gmail.com>`_.

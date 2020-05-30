@@ -1,4 +1,4 @@
-"""Mecode2 - Generic Fusion 360 addin leveraging apper as a submodule"""
+"""mecode - A tool to create and edit toolpaths for 3D printing."""
 
 __version__ = '0.1.0'
 __author__ = 'Rob Weeks <robertweeks94@gmail.com>'
